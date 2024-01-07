@@ -6,12 +6,13 @@ https://arxiv.org/abs/1712.06174
 ## Output from Feature_viz.py
 Result - Optimal solution found
 
-Objective value:                2116.15962907
-Enumerated nodes:               503
-Total iterations:               10873
-Time (CPU seconds):             5.03
-Time (Wallclock seconds):       5.03
+Objective value: &emsp;&emsp;&emsp;&emsp;&nbsp;        2116.15962907 <br>
+Enumerated nodes: &emsp;&emsp;&nbsp;&nbsp;             503<br>
+Total iterations:&emsp;&emsp;&emsp;&emsp; &nbsp;&nbsp;        10873<br>
+Time (CPU seconds):&emsp;&emsp;&nbsp;          5.03<br>
+Time (Wallclock seconds):&nbsp;     5.03<br>
 
-Option for printingOptions changed from normal to all
-Total time (CPU seconds):       5.04   (Wallclock seconds):       5.04
+Option for printingOptions changed from normal to all<br>
+Total time (CPU seconds):       5.04   <br>
+(Wallclock seconds):       5.04<br>
 ![img.png](img/fv_6.png)
