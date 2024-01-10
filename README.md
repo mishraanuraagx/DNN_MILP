@@ -1,5 +1,6 @@
 # DNN - MILP
-This is an attempt to implement the research paper by Matteo Fischetti & Jason Jo on DNN-MILP.
+Work-in-Progress. 
+Implementation of the research paper by Matteo Fischetti & Jason Jo on DNN-MILP.
 Hopefully, this implementation will encourage further research in the area of MILP-DNN.
 https://arxiv.org/abs/1712.06174
 ##### todo improve readme
