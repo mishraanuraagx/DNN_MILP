@@ -1,7 +1,7 @@
 # DNN - MILP
-Work-in-Progress. 
-Implementation of the research paper by Matteo Fischetti & Jason Jo on DNN-MILP.
-Hopefully, this implementation will encourage further research in the area of MILP-DNN.
+Work-in-Progress. <br>
+Implementation of the research paper by Matteo Fischetti & Jason Jo on DNN-MILP. <br>
+Hopefully, this implementation will encourage further research in the area of MILP-DNN.<br>
 https://arxiv.org/abs/1712.06174
 ##### todo improve readme
 ## Output from Feature_viz.py
