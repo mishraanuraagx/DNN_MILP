@@ -1,5 +1,6 @@
 # DNN - MILP
-Work-in-Progress. <br>
+Work-in-Progress. 
+Current work is being done in a private repo as part of my research. Complete research and codebase will be uploaded soon.<br>
 Implementation of the research paper by Matteo Fischetti & Jason Jo on DNN-MILP. <br>
 Hopefully, this implementation will encourage further research in the area of MILP-DNN.<br>
 https://arxiv.org/abs/1712.06174
